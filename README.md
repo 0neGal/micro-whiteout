@@ -1,5 +1,9 @@
 ![](image.png)
 
+Install with: `curl https://raw.githubusercontent.com/0neGuyDev/micro-whiteout/main/install.sh | sh`
+
+Or manually place the `.micro` colorscheme file in your colorschemes folder.
+
 This theme is a collection and part of my overall setup, currently this is the only part of it that's released.
 The colorscheme in the images are from [Tomorrow](https://github.com/ChrisKempson/Tomorrow-Theme) running on GNOME Terminal with picom as the compositor and Roboto Mono as the font.
 
