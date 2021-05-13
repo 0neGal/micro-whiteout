@@ -1,6 +1,6 @@
 ![](image.png)
 
-Install with: `curl https://raw.githubusercontent.com/0neGuyDev/micro-whiteout/main/install.sh | sh`
+Install with: `curl https://raw.githubusercontent.com/0neGal/micro-whiteout/main/install.sh | sh`
 
 Or manually place the `.micro` colorscheme file in your colorschemes folder.
 
